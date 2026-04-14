@@ -17,5 +17,5 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: usssa-tournament-manager
           directory: tm-pages-dist
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+         
           
